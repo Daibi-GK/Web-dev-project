@@ -43,8 +43,36 @@ h2 {
     justify-content: center;
 }
 
-.Me {
-    display: flex;
+ .intro{
+    text-align:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px
+ }
+
+ #name{
+    text-align: center;
+    font-size: 32px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: gold;
+ }
+
+.Video{
+    text-align:center
+}
+
+body{
+    background-color: rgb(191, 254, 254);
+}
+
+.albums{
+    text-align: center;
+}
+
+.Lists{
+    align-items: center;
+}
+
+.table{
+    align-items: center;
     justify-content: center;
 }
- 
